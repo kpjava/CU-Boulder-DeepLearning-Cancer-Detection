@@ -1,0 +1,9 @@
+.conda
+.vscode
+.git
+.DS_Store
+histopathologic-cancer-detection
+imagenet_cancer_detect.ipynb
+submission.csv
+*.h5
+*.keras
